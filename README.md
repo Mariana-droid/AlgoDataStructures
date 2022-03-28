@@ -1,2 +1,2 @@
 # AlgoDataStructures
-My Introduction to Algorithms and Data Structures
+My Introduction to Algorithms and Data Structures Projects
